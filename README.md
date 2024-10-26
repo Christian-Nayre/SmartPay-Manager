@@ -1,6 +1,6 @@
-![Blue Black Modern Grunge Information Technology Animated Banner](https://github.com/user-attachments/assets/ae7cfead-4892-4762-874a-b3094b194c8f)
 
-#🌟 EMPLOYEE PAYROLL SYSTEM 🌟
+
+# 🌟 EMPLOYEE PAYROLL SYSTEM 🌟
 
 ## 🎯 Introduction 
 Welcome to the Employee Payroll System project! This Java-based application is designed to streamline payroll management in organizations. With features to manage employee records, process payroll, and track financial transactions, this project serves as an excellent demonstration of core object-oriented programming (OOP) principles in action.
