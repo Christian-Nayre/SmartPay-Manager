@@ -31,9 +31,6 @@ Welcome to the Employee Payroll System project! This Java-based application is d
 ### Libraries and Tools
 - `JDK` - Java Development Kit
 
-### Version Control
-- **Git**
-
 ### Development Tools
 - `IntelliJ IDEA`
 
@@ -44,8 +41,8 @@ Welcome to the Employee Payroll System project! This Java-based application is d
 
 - **Subject Instructor:** Ms. Fatima Marie P. Agdon
 
-## ⌨️ Authors
+## ⌨️ Author
 
 | Name                             | GitHub                                                | SR Code     |
 |----------------------------------|-------------------------------------------------------|-------------|
-| Nayre, Christian B. | [ChristianNayre](https://github.com/Christian-Nayre)) | 23-07542   |
+| Nayre, Christian B. | [ChristianNayre](https://github.com/Christian-Nayre) | 23-07542   |
