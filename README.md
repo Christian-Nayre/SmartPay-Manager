@@ -14,11 +14,6 @@ Welcome to the Employee Payroll System project! This Java-based application is d
 |3.	|Financial Tracking: Monitor total expenditures on salaries and maintain transaction logs.|
 |4.|	User Authentication: Secure login for the boss to access sensitive payroll information.|
 
-## 🔬 Scope and Limitations
-
-- **Scope✅**: Focuses on basic employee management, payroll processing, and financial tracking.
-- **Limitations❌**: Lacks advanced functionalities such as real-time updates and integration with external databases.
-
 ## 🌟 Features Highlight
 - 👥 Employee Management: Add and manage employees while categorizing them as full-time or part-time.
 - 💰 Payroll Processing: Calculate salaries based on working hours and employee type.
