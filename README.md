@@ -1,4 +1,4 @@
-!(https://github.com/Christian-Nayre/SmartPay-Manager/blob/main/SmartPay_Manager.png)
+![SmartPay_Manager](https://github.com/user-attachments/assets/f115549d-d7b5-4967-b666-8b8f76dfec45)
 
 
 # 🌟 EMPLOYEE PAYROLL SYSTEM 🌟
