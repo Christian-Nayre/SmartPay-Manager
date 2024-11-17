@@ -1,4 +1,4 @@
-
+![Uploading SmartPay_Manager.png…]()
 
 # 🌟 EMPLOYEE PAYROLL SYSTEM 🌟
 
