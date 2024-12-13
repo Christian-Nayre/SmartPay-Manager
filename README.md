@@ -69,9 +69,11 @@ Secure login system ensures that only authorized users can access payroll data.
 - 💻 Integrated Development Environment (IDE) (e.g., IntelliJ IDEA, Eclipse).
 ### **Setup Instructions**
 **1. Clone the Repository**
+
 **2. Database Configuration**
 - Execute the SmartPayManager.sql file in MySQL Workbench.
 - Update the Database class with your database credentials (username, password).
+  
 **3. Run the Application**
 - Compile and run the Main class.
 - Use preloaded credentials or register a new user:
