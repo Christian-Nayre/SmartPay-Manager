@@ -18,7 +18,7 @@ This application demonstrates robust use of Object-Oriented Programming (OOP) pr
 Secure login system ensures that only authorized users can access payroll data.
 
 - **Employee Management 👥**
-  - Add, update, and remove employee records with ease.
+  - Add, view, and remove employee records with ease.
 
 - **Payroll Processing 💰**
   - Calculate fixed monthly salaries for full-time employees and hourly wages for part-time staff.
@@ -60,6 +60,23 @@ Secure login system ensures that only authorized users can access payroll data.
 - 👥 Ensures fair treatment of employees by supporting diverse payroll structures tailored to individual needs.
 - 📊 Enhances transparency in salary calculations, promoting trust and reducing workplace inequalities.
 - 🌟 Enables equitable opportunities for part-time workers by ensuring fair pay and accurate record-keeping.
+
+
+## V. Getting Started
+### **Requirements**
+- 🛠️ Java Development Kit (JDK) version 8 or higher.
+-🗄️ MySQL Workbench for database management.
+- 💻 Integrated Development Environment (IDE) (e.g., IntelliJ IDEA, Eclipse).
+### **Setup Instructions**
+**1. Clone the Repository**
+**2. Database Configuration**
+- Execute the SmartPayManager.sql file in MySQL Workbench.
+- Update the Database class with your database credentials (username, password).
+**3. Run the Application**
+- Compile and run the Main class.
+- Use preloaded credentials or register a new user:
+  - Username: SmartPayManager
+  - Password: Syaako44_
 
 
 ## 🤍 Acknowledgements
