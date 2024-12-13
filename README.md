@@ -7,11 +7,8 @@
 SmartPay Manager is a Java console-based payroll management system. It enables businesses to:
 
 -**🔑 Authenticate Access:** Secure user authentication for managing employee records.
-
 -**🗂️ Employee Management:** Handle full-time and part-time employee records seamlessly.
-
 -**💵 Salary Processing:** Automatically calculate salaries based on employee type and hours worked.
-
 -**📊 Financial Tracking:** Generate detailed transaction histories for payroll transparency.
 
 This application demonstrates robust use of Object-Oriented Programming (OOP) principles and scalable design to accommodate future business needs.
