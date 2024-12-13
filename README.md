@@ -33,7 +33,7 @@ This application demonstrates robust use of Object-Oriented Programming (OOP) pr
 - **Overloaded Methods:** Extendable methods like addEmployee() can handle different parameters for flexibility.
 
 ## IV. Integration of the Sustainable Development Goals (SDGs) 🌍
-**SDG 8: Decent Work and Economic Growth**
+***SDG 8: Decent Work and Economic Growth***
 - ⚖️ Promotes equitable payroll management by supporting distinct salary structures for full-time and part-time employees.
 - ✅ Reduces payroll errors and ensures timely compensation.
 - 📈 Provides a scalable framework for future features like tracking employee hours or generating performance metrics.
