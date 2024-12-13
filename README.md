@@ -1,8 +1,8 @@
 ![SmartPay_Manager](https://github.com/user-attachments/assets/f115549d-d7b5-4967-b666-8b8f76dfec45)
 
 
-💼 SmartPay Manager
-##I. Project Overview
+# 💼 SmartPay Manager
+## I. Project Overview
 
 SmartPay Manager is a Java console-based payroll management system. It enables businesses to:
 
@@ -13,7 +13,7 @@ SmartPay Manager is a Java console-based payroll management system. It enables b
 
 This application demonstrates robust use of Object-Oriented Programming (OOP) principles and scalable design to accommodate future business needs.
 
-II. Application of OOP Principles
+## II. Application of OOP Principles
 🔒 Encapsulation
 Employee Class:
 Encapsulates employee details like name, type, and salary with private attributes, accessed through public methods. Subclasses like FullTimeEmployee and PartTimeEmployee extend this functionality.
