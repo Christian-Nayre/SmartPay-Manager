@@ -1,8 +1,8 @@
 ![SmartPay_Manager](https://github.com/user-attachments/assets/f115549d-d7b5-4967-b666-8b8f76dfec45)
 
 
-###SmartPay 🏢💰
-##I. Project Overview
+###**SmartPay Manager 🏢💰**
+##<ins>**I. Project Overview**<ins>
 SmartPay is a Java console-based payroll management system. The application allows the boss (logged-in user) to:
 
 #🧑‍💼 Manage employees (add, view, and update details).
