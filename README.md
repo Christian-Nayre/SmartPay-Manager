@@ -6,9 +6,7 @@
 SmartPay is a Java console-based payroll management system. The application allows the boss (logged-in user) to:
 
 -🧑‍💼 Manage employees (add, view, remove, and update details).
-
 -💵 Process payrolls for full-time and part-time employees.
-
 -📊 Store and view payroll transactions in a MySQL database.
 
 
