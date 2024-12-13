@@ -18,13 +18,13 @@ This application demonstrates robust use of Object-Oriented Programming (OOP) pr
 Secure login system ensures that only authorized users can access payroll data.
 
 - **Employee Management 👥**
-- Add, update, and remove employee records with ease.
+  - Add, update, and remove employee records with ease.
 
 - **Payroll Processing 💰**
-- Calculate fixed monthly salaries for full-time employees and hourly wages for part-time staff.
+  - Calculate fixed monthly salaries for full-time employees and hourly wages for part-time staff.
 
 - **Transaction History 📑**
-- Maintain a log of all salary payouts for accurate bookkeeping and transparency.
+  - Maintain a log of all salary payouts for accurate bookkeeping and transparency.
 
 ## III. Application of OOP Principles
 ### **🔒 Encapsulation**
