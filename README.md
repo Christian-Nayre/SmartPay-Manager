@@ -65,7 +65,7 @@ Secure login system ensures that only authorized users can access payroll data.
 ## V. Getting Started
 ### **Requirements**
 - 🛠️ Java Development Kit (JDK) version 8 or higher.
--🗄️ MySQL Workbench for database management.
+- 🗄️ MySQL Workbench for database management.
 - 💻 Integrated Development Environment (IDE) (e.g., IntelliJ IDEA, Eclipse).
 ### **Setup Instructions**
 **1. Clone the Repository**
