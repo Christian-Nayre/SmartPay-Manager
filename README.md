@@ -32,10 +32,21 @@ This application demonstrates robust use of Object-Oriented Programming (OOP) pr
 - **Dynamic Method Dispatch:** The processPayroll() method dynamically invokes the appropriate calculateSalary() method based on the employee type.
 - **Overloaded Methods:** Extendable methods like addEmployee() can handle different parameters for flexibility.
 
+## IV. Integration of the Sustainable Development Goals (SDGs) 🌍
+**SDG 8: Decent Work and Economic Growth**
+- ⚖️ Promotes equitable payroll management by supporting distinct salary structures for full-time and part-time employees.
+- ✅ Reduces payroll errors and ensures timely compensation.
+- 📈 Provides a scalable framework for future features like tracking employee hours or generating performance metrics.
 
-⚖️ Promotes equitable payroll management by supporting distinct salary structures for full-time and part-time employees.
-✅ Reduces payroll errors and ensures timely compensation.
-📈 Provides a scalable framework for future features like tracking employee hours or generating performance metrics.
+**SDG 9: Industry, Innovation, and Infrastructure**
+- 💻 Encourages innovation in payroll systems by leveraging modular and scalable software architecture.
+- 🔧 Simplifies administrative tasks through efficient data handling and robust database integration.
+- 🌐 Demonstrates how technology can enhance workplace infrastructure, supporting sustainable economic development.
+
+**SDG 10: Reduced Inequalities**
+- 👥 Ensures fair treatment of employees by supporting diverse payroll structures tailored to individual needs.
+- 📊 Enhances transparency in salary calculations, promoting trust and reducing workplace inequalities.
+- 🌟 Enables equitable opportunities for part-time workers by ensuring fair pay and accurate record-keeping.
 
 
 ## 🤍 Acknowledgements
