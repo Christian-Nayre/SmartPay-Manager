@@ -79,11 +79,10 @@ Secure login system ensures that only authorized users can access payroll data.
   - Password: Syaako44_
 
 
-## 🤍 Acknowledgements
-
+## VI. Acknowledgements
 - **Subject Instructor:** Ms. Fatima Marie P. Agdon
 
-## ⌨️ Author
+## VII. Author
 
 | Name                             | GitHub                                                | SR Code     |
 |----------------------------------|-------------------------------------------------------|-------------|
